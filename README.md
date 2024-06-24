@@ -3,4 +3,4 @@
 - superadmin@test.com password: Superadmin123..
 - cocinero@test.com password: Cocinero123..
 - cajero@test.com password: Cajero123..
-- 
+
